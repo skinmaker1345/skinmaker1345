@@ -17,6 +17,13 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## Shame
+
+### Github Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=skinmaker1345&show_icons=true&theme={theme})
+
+### BOJ
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=skinmaker1345)
 
 ## Contact me with..
 ![Discord](https://dcbadge.vercel.app/api/shield/307455931984379906)
